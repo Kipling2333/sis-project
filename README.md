@@ -7,9 +7,9 @@
 
 **Course:** C11665 - DPR400210: Database Programming
 **Instructor:** Eric Maniraguha
-**Student:** [Your Full Name]
-**Student ID:** [Your Student ID]
-**Group:** [Your Group Number]
+**Student:** [Kipling Bowier]
+**Student ID:** [30713/2025 ID]
+**Group reg  numbers:** [30713/2025,27860/2024]
 
 ---
 
